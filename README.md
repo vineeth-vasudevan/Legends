@@ -2,6 +2,6 @@
 # Author : Vineeth Vasudevan  / Prakruthi Karuna
 
 Hello,
-Welcome to Legends Repo!
+Welcome to the Legends Repo!
 
-This is a Test repository for Prakruthi and Vineeth
+This is a code repository for Prakruthi and Vineeth
